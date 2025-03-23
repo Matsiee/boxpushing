@@ -1,0 +1,14 @@
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\bin\Debug\net9.0\ConsoleGame2.exe
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\bin\Debug\net9.0\ConsoleGame2.deps.json
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\bin\Debug\net9.0\ConsoleGame2.runtimeconfig.json
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\bin\Debug\net9.0\ConsoleGame2.dll
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\bin\Debug\net9.0\ConsoleGame2.pdb
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.AssemblyInfoInputs.cache
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.AssemblyInfo.cs
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.csproj.CoreCompileInputs.cache
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.dll
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\refint\ConsoleGame2.dll
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.pdb
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.genruntimeconfig.cache
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ref\ConsoleGame2.dll

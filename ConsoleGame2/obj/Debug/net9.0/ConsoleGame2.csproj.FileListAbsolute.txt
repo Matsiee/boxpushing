@@ -12,3 +12,4 @@ C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\refint\C
 C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.pdb
 C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.genruntimeconfig.cache
 C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ref\ConsoleGame2.dll
+C:\Users\vmate\RiderProjects\ConsoleGame2\ConsoleGame2\obj\Debug\net9.0\ConsoleGame2.sourcelink.json
